@@ -1,10 +1,10 @@
-# Toko-Online-Batik
-Toko Online Batik dengan Bootstrap + PHP + MySql
+
+Toko Online dengan Bootstrap + PHP + MySql
 
 Langkah untuk dapat menggunakan Website ini :
 1. Download atau clone repository.
 2. Ekstrak file zip yang telah didownload pada direktori server
-3. Ekstrak file database batiku.sql di phpmyadmin
+3. Ekstrak file database ebisnis.sql di phpmyadmin
 4. Website siap digunakan.
 
 Untuk melihat dashbord admin :
